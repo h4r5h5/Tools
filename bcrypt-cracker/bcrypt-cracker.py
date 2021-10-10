@@ -111,7 +111,8 @@ else:
 ----------------------------------------------------------''')
                         
                 else:
-                    print("\n Woooh Hash cracked \n Password is:",new_list[i])
+                    cracked_password = new_list[i].decode()
+                    print("\n Woooh Hash cracked \n Password is:",cracked_password)
                     print('''
 ----------------------------------------------------------
                  Bcrypt Hash Cracker
