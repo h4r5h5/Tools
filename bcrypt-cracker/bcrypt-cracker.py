@@ -15,11 +15,15 @@ print("""
                  
                  
                  """)
-import bcrypt
-import signal
-import progressbar
-import getopt
-import sys
+try:
+    import bcrypt
+    import signal
+    import progressbar
+    import getopt
+    import sys
+except ModuleNotFoundError:
+    print("Python Module Required - Bcrypt, signal, progressbar, getopt")
+    sys.exit(0)
 def signal_handler(sig, frame):
     print('''
 ----------------------------------------------------------
