@@ -1,3 +1,8 @@
+# Author: Harsh Soni
+# Tool: Bcrypt Hash Cracker
+# Created on: 10-Oct-2021
+# Tested on Python3
+
 print("""
           -Bcrypt Hash Cracker-
            --------     --------                  
