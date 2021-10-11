@@ -121,7 +121,7 @@ else:
                         
                 else:
                     cracked_password = new_list[i].decode()
-                    print("\n Woooh Hash cracked \n Password is:",cracked_password)
+                    print("\n Yooo! Hash cracked \n Password is:",cracked_password)
                     print('''
 ----------------------------------------------------------
                  Bcrypt Hash Cracker
