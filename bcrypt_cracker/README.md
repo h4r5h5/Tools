@@ -3,7 +3,7 @@
 ###### Tool: Bcrypt Hash Cracker
 ###### Created on: 10-Oct-2021
 ###### Tested on Python3
-###### Github: [Github](https://github.com/h4r5h5)
+###### Github: [h4r5h5](https://github.com/h4r5h5)
 ###### Instagram: [h4r5h_h4ck5](https://www.instagram.com/h4r5h_h4ck5/)
 # About-Tool
 ```
@@ -31,7 +31,7 @@ user1@kali:~/bcrypt_cracker$ python3 bcrypt_cracker.py -h '$2a$04$TXuWvK7tYFfMVk
  Wait......
  Starting the Attack
  Craking Hash: -                          Total:[990 of 1002] (ETA:  0:00:00)
- Yooo Hash cracked
+ Yooo! Hash cracked
  Password is: Damn
  ----------------------------------------------------------
                  Bcrypt Hash Cracker
